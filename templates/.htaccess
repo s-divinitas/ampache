@@ -1,5 +1,0 @@
-Order deny,allow
-Deny from all
-<Files ~ "\.css$|\.gif$">
-    Allow from all
-</Files>
